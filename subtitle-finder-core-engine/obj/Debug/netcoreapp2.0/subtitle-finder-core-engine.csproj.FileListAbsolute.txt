@@ -1,0 +1,10 @@
+/home/matthieu/Projets/subtitle-project/subtitle-finder-core-engine/bin/Debug/netcoreapp2.0/subtitle-finder-core-engine.deps.json
+/home/matthieu/Projets/subtitle-project/subtitle-finder-core-engine/bin/Debug/netcoreapp2.0/subtitle-finder-core-engine.runtimeconfig.json
+/home/matthieu/Projets/subtitle-project/subtitle-finder-core-engine/bin/Debug/netcoreapp2.0/subtitle-finder-core-engine.runtimeconfig.dev.json
+/home/matthieu/Projets/subtitle-project/subtitle-finder-core-engine/bin/Debug/netcoreapp2.0/subtitle-finder-core-engine.dll
+/home/matthieu/Projets/subtitle-project/subtitle-finder-core-engine/bin/Debug/netcoreapp2.0/subtitle-finder-core-engine.pdb
+/home/matthieu/Projets/subtitle-project/subtitle-finder-core-engine/obj/Debug/netcoreapp2.0/subtitle-finder-core-engine.csproj.CoreCompileInputs.cache
+/home/matthieu/Projets/subtitle-project/subtitle-finder-core-engine/obj/Debug/netcoreapp2.0/subtitle-finder-core-engine.AssemblyInfoInputs.cache
+/home/matthieu/Projets/subtitle-project/subtitle-finder-core-engine/obj/Debug/netcoreapp2.0/subtitle-finder-core-engine.AssemblyInfo.cs
+/home/matthieu/Projets/subtitle-project/subtitle-finder-core-engine/obj/Debug/netcoreapp2.0/subtitle-finder-core-engine.dll
+/home/matthieu/Projets/subtitle-project/subtitle-finder-core-engine/obj/Debug/netcoreapp2.0/subtitle-finder-core-engine.pdb

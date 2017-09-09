@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "8a9445a17295f8cab4f7ffb340aa6da28ba9853e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "subtitle-finder-core-engine/1.0.0": {
+        "dependencies": {
+          "SubtitlesParser": "1.4.7"
+        },
+        "runtime": {
+          "subtitle-finder-core-engine.dll": {}
+        }
+      },
+      "SubtitlesParser/1.4.7": {
+        "runtime": {
+          "lib/net40-client/SubtitlesParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "subtitle-finder-core-engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SubtitlesParser/1.4.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kUXbq06kzVu1Zj03cWNrRY71AJ3fh6u5fNOjWfdLtz239aYLM3SPjjJT6Rx1Ox8avqxffoJ0gxzwlxI6VQjM9g==",
+      "path": "subtitlesparser/1.4.7",
+      "hashPath": "subtitlesparser.1.4.7.nupkg.sha512"
+    }
+  }
+}
